@@ -12,6 +12,7 @@
 |:----------------------------------------------|:-------------------------------------|
 |https://roadmap.sh/frontend|Frontend Developer Roadmap|
 |https://roadmap.sh/backend|Backend Developer Roadmap|
+| https://www.scaler.com/blog/web-development-roadmap/ | Web Development Roadmap |
 | https://www.cursoemvideo.com/           | One of the best site to learn HTML, CSS, JS, PHP in Portuguese. Classes are free. |
 | https://cs50.harvard.edu/          |  Harvard University's introduction to the intellectual enterprises of computer science and the art of programming. |
 | https://formspree.io/                          | Best form builder on the internet   |
